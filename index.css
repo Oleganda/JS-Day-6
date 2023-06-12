@@ -1,0 +1,22 @@
+body {
+   font-size: large;
+}
+
+#main-container {
+   text-align: center;
+}
+
+img {
+    width: 250px;
+}
+
+#green {
+    background-color: green;
+    padding: 10px;
+    
+}
+
+#red {
+    background-color: red;
+    padding: 10px;
+}
